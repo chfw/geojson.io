@@ -33,6 +33,8 @@ Full API documentation can be found in [API.md](API.md).
 
 ## Development
 
+Make sure you have node version 0.6.x.
+
 Install [browserify](https://github.com/substack/node-browserify)'ied libraries:
 
     npm install
